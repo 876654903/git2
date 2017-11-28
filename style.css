@@ -1,21 +1,11 @@
 *{
     margin:0;
     padding:0;
-<<<<<<< HEAD
     box-sizing:border-box;
-=======
-    box-sizing: border-box;
->>>>>>> ying
 }
 .box{
     width: 100px;
     height: 100px;
-<<<<<<< HEAD
-    background: red;
-    border-radius:50%;
-    margin: 10px;
-=======
     border-radius:50%;
     background: red;
->>>>>>> ying
 }
